@@ -343,13 +343,13 @@ ol {
 }
 #testimonial .container .row .testimonial_img{
     background-color: #b2b2b2;
-    background-image: url(../img/testimonial.png);
+    background-image: url(./../img/testimonial.png);
     background-position: center;
     background-size: cover;
 }
 #testimonial .container .row .testimonial_img2{
     background-color: #b2b2b2;
-    background-image: url(../img/testimonial2.png);
+    background-image: url(./../img/testimonial2.png);
     background-size: cover;
    }
    
